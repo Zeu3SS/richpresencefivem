@@ -1,4 +1,4 @@
 # richpresencefivem
 RichPresence By ZeuSSS
 
-Sa Sert a rien
+Toute les infos sont dans le Info.txt
