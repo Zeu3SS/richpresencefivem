@@ -1,0 +1,9 @@
+Salut,
+
+Changez le nomserveur.lua par le nom de votre serveur [ Laissez le .lua ]
+
+Changez dans le __resource.lua avec le nom de votre fichier [ nomserveur.lua ]
+
+Changez le /slots avec le nombres de vos slots sur votre serveur
+Mettre l'ID de votre bot [ https://discord.com/developers/applications ]
+
